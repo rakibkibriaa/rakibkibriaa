@@ -1,82 +1,82 @@
-# Hi, I'm Rakib Kibria 
+# Hi, I'm Rakib Kibria 👋
 
-I have completed my B.Sc. in Computer Science & Engineering from [Bangladesh University of Engineering & Technology (BUET)](https://cse.buet.ac.bd/). Currently, I'm working as a Lecturer in the Department of CSE at [BRAC University](https://www.bracu.ac.bd/).
+I completed my B.Sc. in Computer Science & Engineering from [Bangladesh University of Engineering & Technology (BUET)](https://cse.buet.ac.bd/), and I am currently working as a Lecturer in the Department of CSE at [BRAC University](https://www.bracu.ac.bd/).
 
-My research interests lie broadly in **Computer Networks and Security**, particularly in:
+My research interests are broadly centered around **computer networks and security**, with a particular focus on:
 
-- Network and Systems Security
-- Wireless and Cellular Network Security
-- Communication Protocol Security
-- Security Analysis and Testing
-- AI/ML for Network Security
+* Network and Systems Security
+* Wireless and Cellular Network Security
+* Communication Protocol Security
+* Security Analysis and Testing
+* AI/ML for Network Security
 
-My undergraduate research focused on deep learning-based methods for scene-agnostic visibility prediction, where I worked with **Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNs), Multilayer Perceptrons (MLPs), and Transformer-based models**.
+My undergraduate research focused on deep learning-based methods for scene-agnostic visibility prediction. During this work, I explored several neural network architectures, including **Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNs), Multilayer Perceptrons (MLPs), and Transformer-based models**.
 
-Alongside my research, I have worked on several hands-on networking and security projects, including **malware analysis, XSS attacks, buffer overflow attacks, cryptographic systems, TCP congestion control, socket programming** etc. These experiences gradually strengthened my interest in systems, networking, and security. In particular, the Computer Networks and Computer Security courses at BUET sparked my interest in how protocols work and how they can be broken.
+Alongside research, I have worked on a range of hands-on networking and security projects involving **malware analysis, binary reverse engineering, web security, buffer overflow attacks, cryptographic systems, TCP congestion control, and socket programming**.
 
-I am particularly interested in understanding how communication protocols and real-world systems behave under adversarial conditions, how subtle protocol-level design choices can introduce security vulnerabilities, and how automated and learning-based techniques can help identify such weaknesses.
+These experiences gradually shaped my interest in systems, networking, and security. In particular, the Computer Networks and Computer Security courses at BUET made me curious not only about how communication protocols and systems are designed, but also about how they behave when assumptions break or when an adversary actively tries to exploit them.
+
+I am especially interested in understanding how real-world communication protocols behave under adversarial conditions, how subtle protocol-level design decisions can lead to security vulnerabilities, and how automated or learning-based techniques can be used to discover such weaknesses.
 
 ## 🔬 Research & Technical Interests
 
-- Network & Systems Security
-- 5G / Next-Generation Cellular Security
-- Wireless Protocol Security
-- Protocol Analysis & Testing
-- Applied Cryptography
-- Malware Analysis & Reverse Engineering
-- Network Simulation
-- Machine Learning for Security
+* Network & Systems Security
+* 5G / Next-Generation Cellular Security
+* Wireless Protocol Security
+* Protocol Analysis & Testing
+* Applied Cryptography
+* Malware Analysis & Reverse Engineering
+* Network Simulation
+* Machine Learning for Security
 
 ## 🛠️ Technical Background
 
-**Languages:** C, C++, Python, Java, JavaScript, SQL, Bash
+**Languages:**
+C, C++, Python, Java, JavaScript, SQL, Bash
 
-**Networking & Security:**  
+**Networking & Security:**
 NS-3, TCP/IP, Socket Programming, Radare2, Binary Reverse Engineering, Malware Analysis, Web Security, Applied Cryptography
 
-**Machine Learning:**  
+**Machine Learning:**
 PyTorch, TensorFlow/Keras, Transformers
 
-**Systems:**  
+**Systems:**
 Linux, xv6, Git
 
-**Web & Databases:**  
+**Web & Databases:**
 Node.js, Express.js, Svelte, PostgreSQL, MySQL, Oracle DB
 
 ## 📌 Selected Projects
 
 ### 🔐 Malware Analysis & Binary Reverse Engineering
-Analyzed malware using Radare2, including decryption routines, process-hiding techniques, socket enumeration, self-modifying code, hardware breakpoints, and binary patching.
+
+Analyzed malware and challenge binaries using Radare2, working with techniques such as decryption routine analysis, process hiding, socket enumeration, self-modifying code, hardware breakpoints, and binary patching.
 
 ### 🔑 AES Cryptosystem with ECDH Key Exchange
-Implemented AES from scratch and used Elliptic Curve Diffie-Hellman for secure key establishment over TCP sockets.
+
+Implemented the AES cryptosystem from scratch and integrated Elliptic Curve Diffie-Hellman (ECDH) for secure key establishment between communicating hosts over TCP sockets.
 
 ### 🌐 TCP Adaptive Reno in NS-3
-Implemented an adaptive TCP congestion-control mechanism in NS-3 using congestion estimation and dynamic congestion-window adjustment.
+
+Implemented an adaptive TCP congestion-control mechanism in NS-3 using network congestion estimation and dynamic congestion-window adjustment.
 
 ### 🛡️ Web Security & XSS
-Explored stored XSS vulnerabilities, session hijacking, malicious HTTP requests, and self-propagating JavaScript worms in a controlled environment.
+
+Explored stored XSS vulnerabilities, session hijacking, crafted HTTP requests, and self-propagating JavaScript worms in a controlled security lab environment.
 
 ### 🧠 Transformer-based Undergraduate Research
-Developed a Transformer-based model for predicting visibility queries directly from obstacle-edge representations and evaluated its performance on previously unseen scenes.
+
+Developed a Transformer-based model for predicting visibility queries directly from obstacle-edge representations and evaluated its ability to generalize to previously unseen scenes.
 
 ## 👨‍🏫 Teaching
 
-Currently teaching undergraduate Computer Science and Engineering courses at **BRAC University**, including:
+I am currently teaching undergraduate Computer Science and Engineering courses at **BRAC University**, including:
 
-- CSE 420 - Compiler Design
-- CSE 421 - Computer Networks Sessional
+* **CSE 420 — Compiler Design**
+* **CSE 421 — Computer Networks Sessional**
 
-
-## 🎯 Current Research Direction
-
-I am currently strengthening my background in **network and cellular security**, with particular interest in vulnerabilities in modern communication protocols and automated techniques for security analysis.
-
-I am especially interested in research at the intersection of:
-
-**Networking × Security × Systems × AI**
 
 ## 📫 Connect with Me
 
-- GitHub: [github.com/rakibkibriaa](https://github.com/rakibkibriaa)
-- Email: rakibkibria98@gmail.com
+* **GitHub:** [github.com/rakibkibriaa](https://github.com/rakibkibriaa)
+* **Email:** [rakibkibria98@gmail.com](mailto:rakibkibria98@gmail.com)
