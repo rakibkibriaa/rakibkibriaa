@@ -1,5 +1,9 @@
 # Hi, I'm Rakib Kibria 👋
 
+<p align="center">
+  <img src="profile.jpg" width="180" alt="Rakib Kibria">
+</p>
+
 I am currently a Lecturer in the Department of Computer Science and Engineering at BRAC University and a CSE graduate from Bangladesh University of Engineering and Technology (BUET).
 
 My research interests lie broadly in **Computer Networks and Security**, particularly in:
