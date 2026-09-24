@@ -12,7 +12,7 @@ My research interests are broadly centered around **computer networks and securi
 
 My undergraduate research focused on deep learning-based methods for scene-agnostic visibility prediction. During this work, I explored several neural network architectures, including **Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNs), Multilayer Perceptrons (MLPs), and Transformer-based models**.
 
-Alongside research, I have worked on a range of hands-on networking and security projects involving **malware analysis, binary reverse engineering, web security, buffer overflow attacks, cryptographic systems, TCP congestion control, and socket programming**.
+Alongside research, I have worked on a range of hands-on networking, systems, and security projects involving **malware analysis, binary reverse engineering, web security, buffer overflow attacks, cryptographic systems, TCP congestion control, socket programming, operating systems, compilers, and computer graphics**.
 
 These experiences gradually shaped my interest in systems, networking, and security. In particular, the Computer Networks and Computer Security courses at BUET made me curious not only about how communication protocols and systems are designed, but also about how they behave when assumptions break or when an adversary actively tries to exploit them.
 
@@ -54,7 +54,7 @@ Analyzed malware and challenge binaries using Radare2, working with techniques s
 
 ### 🔑 [AES Cryptosystem with ECDH Key Exchange](https://github.com/rakibkibriaa/Implementation-of-AES-ECDH-Key-Exchange-)
 
-Implemented the AES cryptosystem from scratch and integrated Elliptic Curve Diffie-Hellman (ECDH) for secure key establishment between communicating hosts over TCP sockets.
+Implemented the AES cryptosystem from scratch and integrated Elliptic Curve Diffie-Hellman (ECDH) for secure key establishment between communicating hosts over TCP sockets. Benchmarked encryption performance across 128, 192, and 256-bit key sizes.
 
 ### 🌐 [TCP Adaptive Reno in NS-3](https://github.com/rakibkibriaa/TCP-Adaptive-Reno)
 
@@ -64,9 +64,26 @@ Implemented an adaptive TCP congestion-control mechanism in NS-3 using network c
 
 Explored stored XSS vulnerabilities, session hijacking, crafted HTTP requests, and self-propagating JavaScript worms in a controlled security lab environment.
 
-### 🧠 Transformer-based Undergraduate Research
+### ⚙️ [Threading & Synchronization in xv6](https://github.com/rakibkibriaa/XV6-Threading)
 
-Developed a Transformer-based model for predicting visibility queries directly from obstacle-edge representations and evaluated its ability to generalize to previously unseen scenes.
+Extended the xv6 operating system kernel with thread support by adding system calls for creating and joining threads. Implemented synchronization primitives including locks, condition variables, and semaphores.
+
+### 🧩 [C Compiler](https://github.com/rakibkibriaa/Compiler)
+
+Built a simplified C compiler using **C, Flex, and Bison**, covering lexical analysis, syntax analysis, semantic analysis, and intermediate code generation.
+
+### 🎨 [Ray Tracer](https://github.com/rakibkibriaa/Ray-Tracing)
+
+Implemented a ray tracing system in **C++ and OpenGL** with object-ray intersection testing, Phong lighting, and recursive reflections to generate realistic rendered scenes.
+
+### 🧠 [Neural Network from Scratch](https://github.com/rakibkibriaa/Feed-Forward-Neural-Network)
+
+Implemented a feed-forward neural network entirely from scratch in Python without using machine learning libraries. Built components including dense layers, batch normalization, dropout, and the Adam optimizer, and trained the network on the Fashion-MNIST dataset.
+
+### 📡 [Multi-client File Server](https://github.com/rakibkibriaa/Socket-Programming)
+
+Built a concurrent file server in Java capable of handling multiple clients simultaneously. Implemented user authentication, chunked file transfer, public and private file access, and timeout-based retransmission, along with client-server communication logic for managing concurrent requests reliably.
+
 
 ## 👨‍🏫 Teaching
 
@@ -74,7 +91,6 @@ I am currently teaching undergraduate Computer Science and Engineering courses a
 
 * **CSE 420 — Compiler Design**
 * **CSE 421 — Computer Networks Sessional**
-
 
 ## 📫 Connect with Me
 
