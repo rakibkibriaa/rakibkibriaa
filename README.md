@@ -48,19 +48,19 @@ Node.js, Express.js, Svelte, PostgreSQL, MySQL, Oracle DB
 
 ## 📌 Selected Projects
 
-### 🔐 Malware Analysis & Binary Reverse Engineering
+### 🔐 [Malware Analysis & Binary Reverse Engineering](https://github.com/rakibkibriaa/Malware-Analysis-and-Binary-Reverse-Engineering-with-Radare2)
 
 Analyzed malware and challenge binaries using Radare2, working with techniques such as decryption routine analysis, process hiding, socket enumeration, self-modifying code, hardware breakpoints, and binary patching.
 
-### 🔑 AES Cryptosystem with ECDH Key Exchange
+### 🔑 [AES Cryptosystem with ECDH Key Exchange](https://github.com/rakibkibriaa/Implementation-of-AES-ECDH-Key-Exchange-)
 
 Implemented the AES cryptosystem from scratch and integrated Elliptic Curve Diffie-Hellman (ECDH) for secure key establishment between communicating hosts over TCP sockets.
 
-### 🌐 TCP Adaptive Reno in NS-3
+### 🌐 [TCP Adaptive Reno in NS-3](https://github.com/rakibkibriaa/TCP-Adaptive-Reno)
 
 Implemented an adaptive TCP congestion-control mechanism in NS-3 using network congestion estimation and dynamic congestion-window adjustment.
 
-### 🛡️ Web Security & XSS
+### 🛡️ [Web Security & XSS](https://github.com/rakibkibriaa/XSS-Attack)
 
 Explored stored XSS vulnerabilities, session hijacking, crafted HTTP requests, and self-propagating JavaScript worms in a controlled security lab environment.
 
