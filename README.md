@@ -18,7 +18,7 @@ These experiences gradually shaped my interest in systems, networking, and secur
 
 I am especially interested in understanding how real-world communication protocols behave under adversarial conditions, how subtle protocol-level design decisions can lead to security vulnerabilities, and how automated or learning-based techniques can be used to discover such weaknesses.
 
-## 🔬 Research & Technical Interests
+## 🔬 Research Interests
 
 * Network & Systems Security
 * 5G / Next-Generation Cellular Security
