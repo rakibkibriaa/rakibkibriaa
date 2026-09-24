@@ -64,8 +64,8 @@ Developed a Transformer-based model for predicting visibility queries directly f
 
 Currently teaching undergraduate Computer Science and Engineering courses at **BRAC University**, including:
 
-- Computer Networks Sessional
-- Compiler Design
+- CSE 421 - Computer Networks Sessional
+- CSE 420 - Compiler Design
 
 ## 🎯 Current Research Direction
 
