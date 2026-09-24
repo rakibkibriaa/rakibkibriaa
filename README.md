@@ -1,4 +1,4 @@
-# Hi, I'm Rakib Kibria 👋
+# Hi, I'm Rakib Kibria 
 
 I am currently a Lecturer in the Department of Computer Science and Engineering at BRAC University and a CSE graduate from Bangladesh University of Engineering and Technology (BUET).
 
