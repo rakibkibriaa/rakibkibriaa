@@ -1,6 +1,6 @@
 # Hi, I'm Rakib Kibria 
 
-I am currently a Lecturer in the Department of Computer Science and Engineering at BRAC University. I have graduated from the CSE Department BUET,
+I have completed my B.Sc. in Computer Science & Engineering from [Bangladesh University of Engineering & Technology (BUET)](https://cse.buet.ac.bd/). Currently, I'm working as a Lecturer in the Department of CSE at [BRAC University](https://www.bracu.ac.bd/).
 
 My research interests lie broadly in **Computer Networks and Security**, particularly in:
 
@@ -12,7 +12,7 @@ My research interests lie broadly in **Computer Networks and Security**, particu
 
 My undergraduate research focused on deep learning-based methods for scene-agnostic visibility prediction, where I worked with **Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNs), Multilayer Perceptrons (MLPs), and Transformer-based models**.
 
-Alongside my research, I have worked on several hands-on networking and security projects, including **malware analysis, XSS attacks, buffer overflow attacks, cryptographic systems, TCP congestion control, and socket programming**. These experiences gradually strengthened my interest in systems, networking, and security.
+Alongside my research, I have worked on several hands-on networking and security projects, including **malware analysis, XSS attacks, buffer overflow attacks, cryptographic systems, TCP congestion control, and socket programming**. These experiences gradually strengthened my interest in systems, networking, and security. In particular, the Computer Networks and Computer Security courses at BUET sparked my interest in how protocols work and how they can be broken.
 
 I am particularly interested in understanding how communication protocols and real-world systems behave under adversarial conditions, how subtle protocol-level design choices can introduce security vulnerabilities, and how automated and learning-based techniques can help identify such weaknesses.
 
@@ -64,8 +64,9 @@ Developed a Transformer-based model for predicting visibility queries directly f
 
 Currently teaching undergraduate Computer Science and Engineering courses at **BRAC University**, including:
 
-- CSE 421 - Computer Networks Sessional
 - CSE 420 - Compiler Design
+- CSE 421 - Computer Networks Sessional
+
 
 ## 🎯 Current Research Direction
 
