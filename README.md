@@ -12,7 +12,7 @@ My research interests lie broadly in **Computer Networks and Security**, particu
 
 My undergraduate research focused on deep learning-based methods for scene-agnostic visibility prediction, where I worked with **Convolutional Neural Networks (CNNs), Fully Convolutional Networks (FCNs), Multilayer Perceptrons (MLPs), and Transformer-based models**.
 
-Alongside my research, I have worked on several hands-on networking and security projects, including **malware analysis, XSS attacks, buffer overflow attacks, cryptographic systems, TCP congestion control, and socket programming**. These experiences gradually strengthened my interest in systems, networking, and security. In particular, the Computer Networks and Computer Security courses at BUET sparked my interest in how protocols work and how they can be broken.
+Alongside my research, I have worked on several hands-on networking and security projects, including **malware analysis, XSS attacks, buffer overflow attacks, cryptographic systems, TCP congestion control, socket programming** etc. These experiences gradually strengthened my interest in systems, networking, and security. In particular, the Computer Networks and Computer Security courses at BUET sparked my interest in how protocols work and how they can be broken.
 
 I am particularly interested in understanding how communication protocols and real-world systems behave under adversarial conditions, how subtle protocol-level design choices can introduce security vulnerabilities, and how automated and learning-based techniques can help identify such weaknesses.
 
